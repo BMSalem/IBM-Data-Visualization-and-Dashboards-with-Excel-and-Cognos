@@ -25,15 +25,15 @@
 <h2>Task Information</h2>
 <p><b>TASK 1:</b> Create a dashboard/report page titled as Sales to capture the following KPI metrics:</p>
 
-<p>Capture Profit (formatted to 1 decimal place in millions of US dollars)
-Capture Quantity sold
-Create a bar chart to capture Quantity sold by model
-Capture Average quantity sold</p>
+<p>Capture Profit (formatted to 1 decimal place in millions of US dollars)</p>
+<p>Capture Quantity sold</p>
+<p>Create a bar chart to capture Quantity sold by model</p>
+<p>Capture Average quantity sold</p>
 <p><b>TASK 2:</b> Develop a column chart to display Profit by Dealer ID in the Sales dashboard/report page sorted in ascending order.</p>
 
 <p><b>TASK 3:</b> Create another dashboard/report page titled as Service and capture the following KPI metrics as visualizations:</p>
 
-<p>Create a column chart to capture the number of recalls per model of car
-Create a treemap to capture the customer sentiment by comparing positive, neutral, and negative reviews.
-Create a line and column chart to capture the quantity of cars sold per month compared to the profit.
-Create a heatmap (in Cognos) / Pivot table with heatmap (in Looker) to capture the number of recalls by model and affected system.</p>
+<p>Create a column chart to capture the number of recalls per model of car</p>
+<p>Create a treemap to capture the customer sentiment by comparing positive, neutral, and negative reviews.</p>
+<p>Create a line and column chart to capture the quantity of cars sold per month compared to the profit.</p>
+<p>Create a heatmap (in Cognos) / Pivot table with heatmap (in Looker) to capture the number of recalls by model and affected system.</p>
